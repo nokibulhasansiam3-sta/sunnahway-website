@@ -1,0 +1,15 @@
+# Vercel project link and build output
+.vercel
+public-site/
+node_modules/
+
+# Kept out of git: download builds and media live only on disk and Vercel
+*.apk
+*.zip
+*.mp4
+*.m4a
+*.mp3
+media/
+
+# Private audio served only through the protected API
+private-media/

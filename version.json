@@ -1,0 +1,8 @@
+{
+  "latest_version": "2.2.1",
+  "build_number": 14,
+  "release_date": "2026-11-11",
+  "release_notes": "নামাজের সময়ের পাতা নতুন করে সাজানো: সপ্তাহের তারিখ থেকে যেকোনো দিন বাছাই, সারাদিনের সময়রেখা, নিষিদ্ধ সময় ও নফল নামাজের নতুন অংশ। হোমে সেহরি-ইফতার ও নিষিদ্ধ সময়ের নতুন বক্স। ফজিলতের পপআপ আরও পরিষ্কার। ডার্ক মোডে হোমের রং ব্যানারের সাথে মিলানো। শুরুর পাতায় হালকা অ্যানিমেশন।",
+  "url": "https://sunnahway-official.vercel.app/sunnahway-v2-arm64.apk",
+  "windows_url": "https://sunnahway-official.vercel.app/sunnahway-windows.zip"
+}
